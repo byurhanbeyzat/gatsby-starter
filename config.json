@@ -1,0 +1,26 @@
+{
+  "siteMetadata": {
+    "title": "",
+    "description": "",
+    "keywords": "",
+    "siteUrl": "",
+    "author": "@",
+    "image": "",
+    "social": {
+      "codepen": "",
+      "twitter": "",
+      "github": "",
+      "linkedin": "",
+      "instagram": ""
+    }
+  },
+  "siteManifest": {
+    "start_url": "/",
+    "short_name": "gatsby-starter",
+    "name": "personal-gatsby-starter",
+    "background_color": "#663399",
+    "theme_color": "#663399",
+    "display": "minimal-ui",
+    "icon": ""
+  }
+}
